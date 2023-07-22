@@ -1,6 +1,6 @@
 # Julia Traffic Lights
 
-A simple traffic light simulator written in Julia programming language.
+A simple traffic light simulator written in the Julia programming language.
 
 ## Why?
 
