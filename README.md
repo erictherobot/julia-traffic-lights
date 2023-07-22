@@ -1,14 +1,24 @@
 # Julia Traffic Lights
 
-A simple traffic light simulator written in the Julia programming language.
+A simple traffic light simulator written in the Julia programming language. The program will output the current light color and how long it will stay that color. The program will continue to cycle through the lights until the program is stopped.
 
 ## Why?
 
-I've been learning Julia and this seemed like a fun project to create.
+I've been learning [Julia](https://julialang.org/) and this seemed like a fun project to create.
 
 ## Requirements
 
-- Julia 1.6.1
+- Julia v1.9.2 - (July 5, 2023)
+
+## Instal Julia
+
+```bash
+brew install --cask julia
+```
+
+or
+
+Download and install from [julialang.org](https://julialang.org/downloads/)
 
 ## Usage
 
