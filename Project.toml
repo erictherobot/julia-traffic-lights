@@ -1,0 +1,7 @@
+name = "Julia Traffic Lights"
+uuid = "12345678-1234-1234-1234-123456789abc"
+authors = ["Eric David Smith <erictherobot@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Example = "7876af07-990d-54b4-ab0e-23690620f79a"
